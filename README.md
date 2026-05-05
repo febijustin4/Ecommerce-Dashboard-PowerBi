@@ -122,6 +122,11 @@ Improved understanding of monthly sales growth
 <img width="1178" height="657" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/884033a9-3016-432f-8026-dbd25e0843ba" />
 
 
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:febijustin4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/febi~justin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 
